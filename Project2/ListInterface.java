@@ -1,3 +1,11 @@
+/**
+ * Project 2
+ * 
+ * @author Christopher Stoner
+ * 
+ * Implimented to the SinglyLinkedList class to define all the functions a linked list should perform
+ */
+
 package Project2;
 
 public abstract interface ListInterface<T> extends Iterable<T> {
