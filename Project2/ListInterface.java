@@ -1,6 +1,6 @@
 package Project2;
 
-public interface ListInterface<T> extends Iterable<T> {
+public abstract interface ListInterface<T> extends Iterable<T> {
     // Used in the collection interface
     boolean add(T data);
 
